@@ -1,7 +1,7 @@
 ## Olá! Eu sou Nathan Silva 👋
 
  🔭 Atualmente estudo na EEEP Joaquim Nogueira cursando o Técnico em Informática.
-- 🌱 Meus estudos para aprender mais sobre Python, HTML, CSS e JavaScript focam na área do desenvolvimento.
+- 🌱 Meus estudos focam em Python, HTML, CSS e JavaScript para aprender mais da área de desenvolvimento back-end e front-end.
 - 📃 Ultimamente estou conhecendo a linguagem de programação Java.
 - 🤔 Desejo melhorar cada vez mais meus conhecimentos na área desejada com desafios e práticas.
 - 💬 Me pergunte sobre: tecnologia, códigos, acessibilidade e coisas engraçadas!
