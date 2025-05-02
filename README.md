@@ -6,7 +6,7 @@
 - 🤔 Desejo melhorar cada vez mais meus conhecimentos na área desejada com desafios e práticas.
 - 💬 Me pergunte sobre: tecnologia, códigos, acessibilidade e coisas engraçadas!
 - 📫 Como me encontrar: nathansousaofc30@gmail.com
-- 😄 Gosto de ouvir músicas durante meus estudos, gosto de ler obras nacionais e assistir desenhos.
+- 😄 Gosto de ouvir músicas durante meus estudos, gosto de ler obras nacionais, assistir novelas e dançar just dance.
 -->
 
 
