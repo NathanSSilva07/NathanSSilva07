@@ -11,9 +11,9 @@
 
 
 <div>
-  <a href="https://beacons.ai/NathanSSilva07">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=NathanSSilva07&show_icons=true&theme=dark&include_all_commits-true&count_private-true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanSSilva07&layout=compact&langs_count=16&theme=dark"/>
+  <a href="https://beacons.ia/NathanSSilva07">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=NathanSSilva07&show_icons=true&theme=tokyonight&include_all_commits-true&count_private-true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanSSilva07&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
