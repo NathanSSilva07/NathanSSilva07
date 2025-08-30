@@ -1,8 +1,8 @@
-## Olá! Eu sou Nathan Silva 👋
+## Olá! Eu sou Nathan 👋
 
  🔭 Atualmente estudo na EEEP Joaquim Nogueira cursando o Técnico em Informática.
-- 🌱 Meus estudos focam em Python, HTML, CSS e JavaScript para aprender mais da área de desenvolvimento back-end e front-end.
-- 📃 Ultimamente estou conhecendo a linguagem de programação Java.
+- 🌱 Meus estudos focam na área de desenvolvimento para back-end e front-end.
+- 📃 Ultimamente estou conhecendo mais sobre DBA e Python.
 - 🤔 Desejo melhorar cada vez mais meus conhecimentos na área desejada com desafios e práticas.
 - 💬 Me pergunte sobre: tecnologia, códigos, acessibilidade e coisas engraçadas!
 - 📫 Como me encontrar: nathansousaofc30@gmail.com
@@ -21,6 +21,10 @@
   <img align="center" alt="Nathan_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nathan_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nathan-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Nathan_SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="Nathan_GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="Nathan_CodeSpace" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" />
+  <img align="center" alt="Nathan_MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 </div>
 
 
